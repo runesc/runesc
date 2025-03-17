@@ -19,13 +19,13 @@ I'm a software developer passionate about creating innovative solutions with art
 - 🔹 [PPG](https://github.com/Neuri-AI/PPG): A framework for structuring PyQt/PySide applications.
 - 🔹 [Neuri](https://neuri.ai): AI-based digital solutions and web development.
 
-## My Favorite Programming Languages
+## My favorite programming languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runesc&hide_progress=false)
 
-## My Stats
+## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=runesc&show_icons=true&theme=dark)
 
-## 📫 Contáctame
+## 📫 Contact me
 - ✉️ luisalfredodelosreyes@gmail.com
 - ✉️ alfredo@neuri.ai
 - 💼 [LinkedIn](https://linkedin.com/in/luisalfredoreyes)
