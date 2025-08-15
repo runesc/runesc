@@ -7,7 +7,7 @@ I'm a software developer passionate about creating innovative solutions with art
 - 🏗️ Creator of PPG, a library for structuring PyQt and PySide applications.
 - ⚡ Creator of Qyro Engine, a Python runtime and packaging engine for desktop applications.
 - 🧠 Co-Founder of Neuri, focused on digital solutions and AI-powered tools.
-- 📍 Based in Tamaulipas, Mexico.
+- 📍 From Tamaulipas, Mexico – building software worldwide.
 
 ## 🛠️ My experience
 - **Programming languages:** Python, JavaScript, TypeScript, Node.js, C++
